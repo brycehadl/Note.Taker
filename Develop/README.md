@@ -23,7 +23,9 @@ The software saves and retrieves user-generated note data from a JSON file using
 The front end of the application has already been developed. My responsibility is to construct the back end, link the two, and then publish the completed application to Heroku.
 
 ## Screenshots
-
+![Alt text](<imgs/Screenshot 2023-09-01 at 5.52.06 PM (2).png>)
+![Alt text](<imgs/Screenshot 2023-09-01 at 5.49.03 PM (2).png>)
+website:https://evening-ravine-31233-d3b4ada9731c.herokuapp.com/
 ## Technologies Used
 
 This project uses the file system module express version 4.18.2. Additionally, it uses a cloud platform called Heroku.
@@ -38,6 +40,8 @@ This project uses the file system module express version 4.18.2. Additionally, i
 
 
 4. After installing node.js v16, initialize and create a package.json in the terminal by using the command npm init -y. This is where project files will be kept.
+
+Live Website: https://evening-ravine-31233-d3b4ada9731c.herokuapp.com/
 
 ## Features
 
